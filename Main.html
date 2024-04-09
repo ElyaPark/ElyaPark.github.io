@@ -40,22 +40,22 @@
   <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">
     <div class="bg-dark p-4 d-flex justify-content-between align-items-center" style="background-color: rgba(0, 0, 0, 0.5);">
       <div class="container-list">
-        <a href="http://start-clean/Main.html" class="b1 text-white">Главная</a>
+        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Main.html" class="b1 text-white">Главная</a>
         <a href="#" class="b2 text-white">История</a>
-        <a href="http://start-clean/Музыка.html" class="b3 text-white">Музыка</a>
+        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Музыка.html" class="b3 text-white">Музыка</a>
         <a href="#" class="b4 text-white">Видео</a>
         <a href="#" class="b5 text-white">Фан-контент</a>
         <a href="#" class="b6 text-white">О нас</a>
       </div>
       <div class="container-menu d-flex justify-content-end">
-        <a href="http://start-clean/Регистрация.html" class="badge badge-pill badge-primary">Регистрация</a>
-        <a href="http://start-clean/Вход.html" class="badge badge-pill badge-secondary">Вход</a>
+        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Регистрация.html" class="badge badge-pill badge-primary">Регистрация</a>
+        <a href="file:///C:/Users/Pobeda304/Desktop/start-clean/Вход.html" class="badge badge-pill badge-secondary">Вход</a>
       </div>
     </div>
   </div>
   <nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
-      <img src="http://start-clean/img/бтслого1.png" alt="Ваше изображение" style="max-height: 50px; margin: auto; display: block;">
+      <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/бтслого1.png" alt="Ваше изображение" style="max-height: 50px; margin: auto; display: block;">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -78,13 +78,13 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="http://start-clean/img/чонгук%20карусель.png" class="d-block w-100" alt="Slide 1">
+        <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/чонгук%20карусель.png" class="d-block w-100" alt="Slide 1">
       </div>
       <div class="carousel-item">
-        <img src="http://start-clean/img/чимин%20карусель.png" class="d-block w-100" alt="Slide 2">
+        <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/чимин%20карусель.png" class="d-block w-100" alt="Slide 2">
       </div>
       <div class="carousel-item">
-        <img src="http://start-clean/img/техен%20карусель.png" class="d-block w-100" alt="Slide 3">
+        <img src="file:///C:/Users/Pobeda304/Desktop/сайт1/img/техен%20карусель.png" class="d-block w-100" alt="Slide 3">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
